@@ -1,0 +1,11 @@
+2026-02-09 00:59:59,424 - data_preprocessing - ERROR - Failed to complete the data preprocessing process. Error: [Errno 2] No such file or directory: './data/raw/train.csv'
+2026-02-09 18:06:56,472 - data_preprocessing - DEBUG - Data loaded successfully for preprocessing
+2026-02-09 18:06:56,474 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-02-09 18:06:56,477 - data_preprocessing - DEBUG - Label encoding completed successfully
+2026-02-09 18:06:56,494 - data_preprocessing - DEBUG - Duplicate removal completed successfully
+2026-02-09 18:07:11,800 - data_preprocessing - DEBUG - Text transformation completed successfully
+2026-02-09 18:07:11,801 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-02-09 18:07:11,803 - data_preprocessing - DEBUG - Label encoding completed successfully
+2026-02-09 18:07:11,805 - data_preprocessing - DEBUG - Duplicate removal completed successfully
+2026-02-09 18:07:15,950 - data_preprocessing - DEBUG - Text transformation completed successfully
+2026-02-09 18:07:15,970 - data_preprocessing - DEBUG - Preprocessed data saved successfully

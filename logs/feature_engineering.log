@@ -1,0 +1,8 @@
+2026-02-09 20:10:45,504 - feature_engineering - ERROR - Error in main function: module 'pandas' has no attribute 'error'
+2026-02-09 20:11:10,453 - feature_engineering - ERROR - Error loading data from file: ./data/processed/train_processed.csv, Error: [Errno 2] No such file or directory: './data/processed/train_processed.csv'
+2026-02-09 20:11:10,460 - feature_engineering - ERROR - Error in main function: [Errno 2] No such file or directory: './data/processed/train_processed.csv'
+2026-02-09 20:14:22,559 - feature_engineering - DEBUG - Data Loaded and Nans filled from ./data/raw/train.csv
+2026-02-09 20:14:22,590 - feature_engineering - DEBUG - Data Loaded and Nans filled from ./data/raw/test.csv
+2026-02-09 20:14:22,769 - feature_engineering - DEBUG - TF-IDF feature engineering completed successfully with max_features=50
+2026-02-09 20:14:22,925 - feature_engineering - DEBUG - Data saved successfully at ./data/processed/train_tfidf.csv
+2026-02-09 20:14:22,964 - feature_engineering - DEBUG - Data saved successfully at ./data/processed/test_tfidf.csv

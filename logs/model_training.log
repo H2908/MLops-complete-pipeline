@@ -1,0 +1,12 @@
+2026-02-09 21:10:28,230 - model_training - ERROR - Error loading parameters from file: params.yaml, Error: [Errno 2] No such file or directory: 'params.yaml'
+2026-02-09 21:10:28,231 - model_training - ERROR - Failed to complete the model training process. Error: [Errno 2] No such file or directory: 'params.yaml'
+2026-02-09 21:12:09,320 - model_training - ERROR - Error loading parameters from file: params.yaml, Error: [Errno 2] No such file or directory: 'params.yaml'
+2026-02-09 21:12:09,321 - model_training - ERROR - Failed to complete the model training process. Error: [Errno 2] No such file or directory: 'params.yaml'
+2026-02-09 21:13:38,067 - model_training - INFO - Starting model training pipeline
+2026-02-09 21:13:38,068 - model_training - ERROR - Failed to load params.yaml: [Errno 2] No such file or directory: 'c:\\Users\\tanej\\OneDrive\\Desktop\\MLops\\MLops-complete-pipeline\\params.yaml'
+2026-02-09 21:13:38,069 - model_training - ERROR - Model training pipeline failed: [Errno 2] No such file or directory: 'c:\\Users\\tanej\\OneDrive\\Desktop\\MLops\\MLops-complete-pipeline\\params.yaml'
+2026-02-10 13:15:28,861 - model_training - ERROR - Error loading parameters from file: params.yaml, Error: [Errno 2] No such file or directory: 'params.yaml'
+2026-02-10 13:15:28,864 - model_training - ERROR - Failed to complete the model training process. Error: [Errno 2] No such file or directory: 'params.yaml'
+2026-02-10 13:20:25,506 - model_training - DEBUG - Data Loaded from data/processed/train_tfidf.csv
+2026-02-10 13:20:25,852 - model_training - DEBUG - Model training completed successfully
+2026-02-10 13:20:25,874 - model_training - DEBUG - Model saved successfully at models/random_forest_model.pkl
